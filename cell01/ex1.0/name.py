@@ -1,1 +1,0 @@
-print(Korawit Kaweesatian)
